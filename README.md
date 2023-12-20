@@ -1,3 +1,3 @@
 # Dino_Game_using_RL
 
-This was done by following Nicolas Rennote's Youtube tutorial 
+This was done by following Nicholas Rennote's Youtube tutorial 
